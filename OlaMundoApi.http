@@ -1,0 +1,6 @@
+@OlaMundoApi_HostAddress = http://localhost:5200
+
+GET {{OlaMundoApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
